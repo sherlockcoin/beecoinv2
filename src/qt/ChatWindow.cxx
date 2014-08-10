@@ -16,7 +16,7 @@ ChatWindow::ChatWindow(QWidget *parent) : QMainWindow(parent)
 
 void ChatWindow::on_loginButton_clicked()
 {
-    socket->connectToHost(serverLineEdit->text(), 4200);
+    socket->connectToHost(serverLineEdit->text(), 44468);
 }
 
 void ChatWindow::on_sayButton_clicked()
