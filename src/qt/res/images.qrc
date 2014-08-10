@@ -1,3 +1,6 @@
+<!--
+Images of the Chat Feature.
+-->
 <RCC>
   <qresource prefix="/" >
     <file>user.png</file>
