@@ -6,12 +6,12 @@ BeecoinV2 (Bee) - Second Generation CryptoCurrency of BeeCoin , USES X11 POW/POS
 - 30 second block target
 - Difficulty retargets every block
 - 20,000 BeeCoin Reward every block
-- Total coins will be only 35 Billion
+- Total coins will be only 27 Billion
 - The default ports are 66644 (connect) and 44466 (json rpc).
 - Stake Interest 1% per Year, First year - 10%, second year - 5%, third year  - 2%
 - Min Age 7 Days
 - Max Age 14 Days
-- 60 Confirmations for Mined Blocks
+- 120 Confirmations for Mined Blocks
 - Fast Transaction Confirmations (7 Confirmations)
 - Exact amount of coins in circulation on the BeeCoin Version 1 chain was mined for swapping them at 1:1 ratio for the New coins.
 - 10% Block Tax per block goes to the BeeCoin Foundation - To sustain BeeCoin Projects , Faucets , Future Developments , Games Bounties , Giveaways and Honey Bee Conservation Projects
